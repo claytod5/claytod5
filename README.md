@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claytod5
-- 👀 I’m interested in Python, Rust, Linux, DevOps, and Networking.
-- 🌱 I’m currently learning about Docker and Rust.
+- 👀 I’m interested in 🐍 Python, 🐧 Linux, DevOps, and Networking.
+- 🌱 I’m currently learning about Docker and Flask.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me ... claytod5@protonmail.com.
 
