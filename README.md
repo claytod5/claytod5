@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claytod5
-- 👀 I’m interested in 🐍 Python, 🐧 Linux, DevOps, and Networking.
-- 🌱 I’m currently learning about Docker and Flask.
+- 👀 I’m interested in 🐍 Python and 🐧 Linux.
+- 🌱 I’m currently learning about Python multiprocessing.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me ... claytod5@protonmail.com.
 
